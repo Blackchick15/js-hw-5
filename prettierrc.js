@@ -10,7 +10,17 @@
 
 // Якщо 3 -Весна і т.д.
 
- 
+// let number = prompt('номер місяця ');
+// if(number === '2'){
+//     console.log('Зима')
+// }else if(number === '3'){
+//     console.log('Весна')
+// }
+// else if(number === '4'){
+//     console.log('Літо')
+// }else if(number === '5'){
+//     console.log('Осень')
+// }
 
 // ............
 
@@ -26,10 +36,21 @@
 
  
 
-// const login = 'user@gmail.com';
+// const login = prompt('Ведіть логін') ;
 
-// const password = '12345'
+// const password  = prompt('Ведіть пароль') ;
 
+//  if(login === 'user@gmail.com'){
+//     console.log('привітання')
+//  }else{
+//     console.log('невінний логін')
+//  };
+//  if(password  === '12345'){
+//     console.log('привітання')
+//  }else{
+//     console.log('невінний логін')
+//  }
+    
  
 
 // ............
